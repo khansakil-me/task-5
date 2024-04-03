@@ -1,0 +1,45 @@
+header{
+    background-color: rgb(243, 160, 188);
+    padding: 50px 240px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav-tittle{
+    font-size:2.8rem ;
+    font-weight: 800;
+
+}
+nav > ul{
+    list-style: none;
+    display: flex;
+
+}
+nav li{
+   
+    font-weight: 500;
+    font-size: 1.2rem;
+    margin-right: 20px;
+
+}
+nav li a{
+    text-decoration: none;
+    color: rgb(46, 45, 45);
+}
+.banner-content{
+    max-width: 800px;
+    text-align: center;
+    margin: 0 auto;
+}
+.banner-tittle{
+    font-size: 3rem;
+    font-weight:700;
+
+
+}
+.banner img{
+    max-width: 800px;
+
+}
